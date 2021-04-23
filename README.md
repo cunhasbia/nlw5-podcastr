@@ -32,7 +32,10 @@ $ cd nlw5-podcastr
 # Install dependencies
 $ yarn
 
-# Run
+# Run the fake server
+$ yarn server
+
+# Start the project
 $ yarn dev
 
 # The app will be running on http://localhost:3000
